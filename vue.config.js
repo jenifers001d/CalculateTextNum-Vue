@@ -1,4 +1,4 @@
 module.exports = {
   transpileDependencies: true,
-  publicPath: '/CalculateTextNum-Vue/dist/'
+  publicPath: '/CalculateTextNum-Vue/'
 }
